@@ -1,0 +1,10 @@
+{
+    "name": "docs",
+    "description": "A chrome extension document editor",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "./background.js"
+    },
+    "permissions": ["storage", "tabs"]
+}

@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "alwaysStrict": true,
+        "jsx": "react-jsx",
+        "esModuleInterop": true
+    },
+    "include": ["./**/*.ts", "public/website/App.tsx", "public/popup/App.tsx"]
+}

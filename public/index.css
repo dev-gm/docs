@@ -1,0 +1,16 @@
+a.button {
+    text-decoration: none;
+    color: #000;
+}
+
+a.button:link {
+    background-color: #FFF;
+}
+
+a.button:hover {
+    background-color: #3BA3FF;
+}
+
+a.button:active {
+    background-color: #FFF;
+}

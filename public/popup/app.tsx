@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-<body>
-<div id="root"></div>
-<script>
 import React from "react";
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -19,7 +13,4 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root')
-);;
-</script>
-</body>
-</html>
+);

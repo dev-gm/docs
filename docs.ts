@@ -93,4 +93,6 @@ class TextDocumentChange {
     }
 }
 
-export { TextDocument, TextDocumentChange };
+class Folder {}
+
+export { TextDocument, TextDocumentChange, Folder };
